@@ -11,7 +11,7 @@ I'm transitioning from a cybersecurity background into the world of cloud engine
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Jenkins on AWS for CI/CD                      | <a href="https://google.com">Jenkins Installation Lab</a>|
+| Jenkins on AWS for CI/CD                      | <a href="https://github.com/campanellagodfrey/JenkinsInstallationLab>Jenkins Installation Lab</a>|
 | Load Balancers in GCP                         | <a href="https://google.com">Configuring HTTP(S) Load Balancers Lab</a>|
 | Snyk for Vulnerability Management in AWS      | Cloud Security Lab|
 | Database as a Service (DBaaS) Management      | MySQL database in GCP Cloud SQL Lab|
